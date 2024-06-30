@@ -1,5 +1,3 @@
-This repository contains all replication code for the paper "Means-Tested Subsidies, Family Dynamics and Labor Supply of Men and Women."
-
 Setup guide:
 1. Download [Anaconda](https://www.anaconda.com/download) using default options
 2. Add the location of the Anaconda-installation to PATH in "environment variables".
